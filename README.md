@@ -2,4 +2,4 @@
 ## made by perly
 
 ### dependencies needed:
-  *- phin
+  *- phin*
